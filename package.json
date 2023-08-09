@@ -1,6 +1,6 @@
 {
   "name": "posixparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse posix-style arguments",
   "main": "dist/lib.js",
   "module": "dist/lib.esm.js",
@@ -50,5 +50,6 @@
     "type": "git",
     "url": "https://github.com/Exponential-Workload/posixparser.git"
   },
-  "homepage": "https://gh.expo.moe/posixparser"
+  "homepage": "https://gh.expo.moe/posixparser",
+  "sideEffects": false
 }
