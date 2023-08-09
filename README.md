@@ -15,6 +15,7 @@ Parse Posix-Style Arguments in JS - Rewrite of [this old gist of mine](https://g
 - [🚀 Setup](#-setup)
 - [🛠️ Usage](#️-usage)
 - [📜 License](#-license)
+- [🔗 See Also](#-see-also)
 
 # 🚀 Setup
 
@@ -45,3 +46,7 @@ console.log(output); // ["hello world", "hello", "hi", "hello there"]
 # 📜 License
 
 This project is licensed under the [📄 MIT License](./LICENSE)
+
+# 🔗 See Also
+
+- [📦](https://npm.im/argparser) [📁](https://github.com/Exponential-Workload/argparser) argparser — Parse a string[] of arguments into an object
