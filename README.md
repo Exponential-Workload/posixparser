@@ -45,7 +45,7 @@ console.log(output); // ["hello world", "hello", "hi", "hello there"]
 
 # 📜 License
 
-This project is licensed under the [📄 MIT License](./LICENSE)
+This project is licensed under the [📄 MIT License](https://gh.expo.moe/posixparser/LICENSE.txt)
 
 # 🔗 See Also
 
