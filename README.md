@@ -49,4 +49,4 @@ This project is licensed under the [📄 MIT License](./LICENSE)
 
 # 🔗 See Also
 
-- [📦](https://npm.im/argparser) [📁](https://github.com/Exponential-Workload/argparser) argparser — Parse a string[] of arguments into an object
+- [📦](https://npm.im/argparser) [📁](https://github.com/Exponential-Workload/argparser) [@3xpo/argparser](https://gh.expo.moe/argparser/) — Parse a string[] of arguments into an object
