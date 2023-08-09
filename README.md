@@ -6,7 +6,7 @@
   [![📦 NPM](https://img.shields.io/npm/v/posixparser?label=📦%20NPM)](https://npmjs.com/package/posixparser)
   [![🧪 Tests](https://img.shields.io/github/actions/workflow/status/Exponential-Workload/posixparser/test.yml?branch=master&label=🧪%20Tests)](https://github.com/Exponential-Workload/posixparser/actions/workflows/test.yml)
 
-Parse Posix-Style Arguments in NodeJS
+Parse Posix-Style Arguments in JS - Rewrite of [this old gist of mine](https://gist.github.com/Exponential-Workload/abd1a5f81970cdb2bdd88f81e04e2409)
 
 </div>
 
